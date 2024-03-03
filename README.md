@@ -1,1 +1,1 @@
-# lab 13-14
+The Warehouse Manager App, built in C++ with a QT GUI, streamlines product management. Users can easily add, edit, or remove items, track prices, manufacturers, and categories, and utilize CRUD operations with an undo feature. Plus, the app facilitates shopping by enabling users to select products for their cart.
